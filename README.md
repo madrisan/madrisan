@@ -19,7 +19,10 @@ but my interests in technology and maths/physics fields cover the following area
 You can find my detailed Curriculum Vitae (in _pdf_ format)
 [here :book:](https://github.com/madrisan/cv/blob/master/dmadrisan_cv_en.pdf)
 
+---
+
 I hope you can find some useful piece of software in my repositores.
+In that case, do not forget to add a :star: to the project to let me known!
 
 [cv]: https://github.com/madrisan/cv/blob/master/dmadrisan_cv_en.pdf
 [experiences-plot]: https://github.com/madrisan/cv/blob/master/images/experiences.png "Job and Lifelong Learning History"

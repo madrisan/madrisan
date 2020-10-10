@@ -5,7 +5,7 @@ currently working as _Automation Engineer_ and _DevOps_ at [qwant.com](https://w
 Here's a scatter plot that should help visualizing my job, learning, and programming path.
 ![alt tag][experiences-plot]
 
-I’m currently busy playing with _SaltStack_, _Kubernetes_, _Docker_, _Go_,
+I’m currently busy playing with _GitLab CI_, _Kubernetes_, _Docker_, _SaltStack_, _Go_,
 cloud technologies, and improving my knowledge in _functional programming_,
 but my interests in technology and maths/physics fields cover the following areas
 (somewhat ordered by decreasing degree of time accorded):

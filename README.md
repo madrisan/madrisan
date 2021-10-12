@@ -19,6 +19,10 @@ but my interests in technology and maths/physics fields cover the following area
 You can find my detailed Curriculum Vitae (in _pdf_ format)
 [here :book:](https://github.com/madrisan/cv/blob/master/dmadrisan_cv_en.pdf)
 
+[![LinkedIN Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madrisan/)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-0e76a8?logo=stackoverflow&logoColor=orange&color=white)](https://stackoverflow.com/users/5721620/davide-madrisan)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/dmadrisan)
+[![Website Badge](https://img.shields.io/badge/-Website-0e76a8?logo=html5&color=white)](https://madrisan.github.io/)
 ---
 
 I hope you can find some useful piece of software in my repositores.

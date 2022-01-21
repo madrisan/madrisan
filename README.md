@@ -23,6 +23,16 @@ You can find my detailed Curriculum Vitae (in _pdf_ format)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-0e76a8?logo=stackoverflow&logoColor=orange&color=white)](https://stackoverflow.com/users/5721620/davide-madrisan)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/dmadrisan)
 [![Website Badge](https://img.shields.io/badge/-Website-0e76a8?logo=html5&color=white)](https://madrisan.github.io/)
+
+#### ⚡ My GitHub Statistics
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madrisan&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrisan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+</p>
+
 ---
 
 I hope you can find some useful piece of software in my repositores.

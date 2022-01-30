@@ -3,6 +3,7 @@
 I'm an Open Source and Linux enthusiast since 1996, with 20+ years of experience.
 currently working as _CI/CD Software Engineer_ at [qwant.com](https://www.qwant.com).
 Here's a scatter plot that should help visualizing my job, learning, and programming path.
+
 ![alt tag][experiences-plot]
 
 I’m currently busy playing with _GitLab CI_, _Kubernetes_, _Helm_, _Docker_, _SaltStack_, _Go_,

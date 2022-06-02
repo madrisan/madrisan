@@ -1,4 +1,8 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm an Open Source and Linux enthusiast (since 1996), currently working as CI/CD Software Engineer (aka DevOps) at [qwant.com](https://www.qwant.com)
+## Hi there!
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">
+ 
+**I'm an Open Source and Linux enthusiast (since 1996), currently working as CI/CD Software Engineer (aka DevOps) at [qwant.com](https://www.qwant.com)**
 
 I’m currently busy playing with _GitLab CI_, _Kubernetes_, _Helm_, _Docker_, _SaltStack_, _Go_,
 cloud technologies, and improving my knowledge in _functional programming_,
@@ -34,7 +38,7 @@ You can find my detailed Curriculum Vitae (in _pdf_ format)
 
 ---
 
-### I hope you can find some useful piece of software in my repositores. In that case, do not forget to add a :star: to the project to let me known!
+#### 👁️ I hope you can find some useful piece of software in my repositores. In that case, _do not forget to add a :star: to the project(s)_ to let me known!
 
 [cv]: https://github.com/madrisan/cv/blob/master/dmadrisan_cv_en.pdf
 [experiences-plot]: https://github.com/madrisan/cv/blob/master/images/experiences.png "Job and Lifelong Learning History"

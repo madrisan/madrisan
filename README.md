@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">
  
 I'm an Open Source and Linux enthusiast (since 1996), currently working as CI/CD Software Engineer (aka DevOps) at [qwant.com](https://www.qwant.com)
 

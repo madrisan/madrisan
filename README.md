@@ -22,7 +22,7 @@ In that case, _do not forget to add a :star: to the project(s)_ to let me known!
 [experiences-plot]: https://github.com/madrisan/cv/blob/master/images/experiences.png "Job and Lifelong Learning History"
 [![LinkedIN Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madrisan/)
 [![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-0e76a8?logo=stackoverflow&logoColor=orange&color=white)](https://stackoverflow.com/users/5721620/davide-madrisan)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white)](https://twitter.com/dmadrisan)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-00acee?logo=Mastodon&logoColor=white)](https://noc.social/@327ppm)
 [![Website Badge](https://img.shields.io/badge/-Website-0e76a8?logo=html5&color=white)](https://madrisan.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madrisan&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </p>

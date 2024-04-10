@@ -10,10 +10,13 @@ In that case, _do not forget to add a :star: to the project(s)_ to let me known!
 #### ⚡ My GitHub Statistics
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madrisan&show_icons=true&hide_border=true&theme=vue-dark" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=madrisan&show_icons=true&hide_border=true&theme=vue-dark" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrisan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madrisan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+
+<!-- Contributions -->
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=madrisan&theme=vue-dark&hide_border=true"/>
 </p>
 
 #### 🔗 Social Media and Website
